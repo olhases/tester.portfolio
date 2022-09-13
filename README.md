@@ -11,7 +11,7 @@ I study areas of interest to me related to business and its internal processes. 
 * Selenium IDE - Open source record and playback test automation for the web
 * Selenium WebDriver - for automated testing of web applications
 * RobotFramework - A generic open source automation framework
-* SelectorsHub - xPath finding tool
+* SelectorsHub, xPath Finder - xPath finding tool
 * PyCharm, Visual Studio Code
 * HTML/CSS
 * JavaScript - basics of JavaScript language
